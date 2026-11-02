@@ -1,6 +1,6 @@
 {
     "name": "jobsys-explore",
-    "version": "5.1.0",
+    "version": "5.1.1",
     "description": "Enhanced component based on vant",
     "keywords": [
         "jobsys",
@@ -46,7 +46,6 @@
     "hooks": {
         "before:init": "git fetch --prune --prune-tags origin"
     },
-
     "dependencies": {
         "@vueuse/core": "^14.2.1",
         "qrcode": "^1.5.4",
